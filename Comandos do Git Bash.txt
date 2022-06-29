@@ -1,0 +1,15 @@
+cd - entrar na pasta
+cd.. - voltar para outro diretorio
+dir - listar diretorios
+mkdir - criar pastas
+del/rmdkr - deletar pasta
+cls - limpar o terminal
+
+Comando para gerar o SSH
+ssh-keygen -t ed25519 -C email
+
+Configuração do Git (Git Bash)
+git config --global user.email
+git config --global user.name 
+git add *
+git commit -m
